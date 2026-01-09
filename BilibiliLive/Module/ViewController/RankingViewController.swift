@@ -27,7 +27,7 @@ struct RankCategoryInfo {
                       RankCategoryInfo(title: "生活", rid: 160),
                       RankCategoryInfo(title: "美食", rid: 1020),
                       RankCategoryInfo(title: "动物", rid: 1024),
-                      RankCategoryInfo(title: "鬼畜", rid: 1007),
+                      RankCategoryInfo(title: "荒诞", rid: 1007),
                       RankCategoryInfo(title: "时尚", rid: 1014),
                       RankCategoryInfo(title: "娱乐", rid: 1002),
                       RankCategoryInfo(title: "影视", rid: 1001)]
