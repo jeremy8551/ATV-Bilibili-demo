@@ -26,11 +26,6 @@
 - HDR播放
 - 字幕
 
- ![](imgs/1.jpg)
- ![](imgs/2.jpg)
- ![](imgs/3.png)
-
-
 
 ### Telegram Group
  - https://t.me/appletvbilibilidemo
